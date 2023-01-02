@@ -28,6 +28,8 @@
 ### ⚙️ Helper &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Gitlab](https://img.shields.io/badge/Gitlab-191523?style=for-the-badge&logo=gitlab)
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-2A65D1?style=for-the-badge&logo=bitbucket)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![FileZilla](https://img.shields.io/badge/filezilla-A41500?style=for-the-badge&logo=filezilla)
   ![Firebase](https://img.shields.io/badge/digitalocean-ffffff?style=for-the-badge&logo=digitalocean)
