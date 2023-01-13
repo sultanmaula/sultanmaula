@@ -42,14 +42,14 @@
  
 <br/>
 
-<a href="https://github.com/sultanmaula">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultanmaula&show_icons=true&count_private=true&include_all_commits=true&theme=radical&title_color=61D9FA&icon_color=61D9FA&text_color=fff&bg_color=20232A" />
+<!-- <a href="https://github.com/sultanmaula">
+  <img src="https://github-readme-stats.vercel.app/api?username=sultanmaula&show_icons=true&count_private=true&include_all_commits=true&theme=radical&title_color=61D9FA&icon_color=61D9FA&text_color=fff&bg_color=20232A" /> -->
   <br/>
   <br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanmaula&theme=react" />
    <br/>
-   <br/>
-   <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanmaula&langs_count=8&bg_color=20232A&text_color=fff&title_color=61D9FA&" />
+<!--    <br/>
+   <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanmaula&langs_count=8&bg_color=20232A&text_color=fff&title_color=61D9FA&" /> -->
 </a>
 
 <br/>
