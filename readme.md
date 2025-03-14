@@ -43,12 +43,12 @@
 <br/>
 
 <a href="https://github.com/sultanmaula">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultanmaula&show_icons=true&count_private=true&include_all_commits=true&theme=radical&title_color=61D9FA&icon_color=61D9FA&text_color=fff&bg_color=20232A" />
-  <br/>
-  <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanmaula&theme=react" />
-   <br/>
-    <br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sultanmaula&show_icons=true&count_private=true&include_all_commits=true&theme=radical&title_color=61D9FA&icon_color=61D9FA&text_color=fff&bg_color=20232A" /> -->
+<!--   <br/> -->
+<!--   <br/> -->
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanmaula&theme=react" /> -->
+<!--    <br/> -->
+<!--     <br/> -->
    <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanmaula&langs_count=8&bg_color=20232A&text_color=fff&title_color=61D9FA&" />
 </a>
 
@@ -60,7 +60,7 @@
 ## 🤝🏻 &nbsp;Connect with Me</h2>
 
 <p align="left">
-<a href="https://sultanmaula.com/"><img alt="Website" src="https://img.shields.io/badge/Website-sultanmaula.com-blue?style=for-the-badge&logo=google-chrome&color=6366f1&logoColor=6366f1"></a>
+<a href="https://sultanmaula.github.com/"><img alt="Website" src="https://img.shields.io/badge/Website-sultanmaula.github.com-blue?style=for-the-badge&logo=google-chrome&color=6366f1&logoColor=6366f1"></a>
 <a href="https://www.linkedin.com/in/sultanmaula/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sultan_maula-blue?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2"></a>
 <a href="https://www.instagram.com/sultanmaula/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sultanmaula-blue?style=for-the-badge&logo=instagram&color=E4405F&logoColor=E4405F"></a>
 <a href="mailto:sultanmaulachamzah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sultanmaulachamzah@gmail.com-blue?style=for-the-badge&logo=gmail&color=EA4335&logoColor=EA4335"></a>
