@@ -60,10 +60,10 @@
 ## 🤝🏻 &nbsp;Connect with Me</h2>
 
 <p align="left">
-<a href="https://sultanmaula.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sultanmaula.github.io-blue?style=for-the-badge&logo=google-chrome&color=6366f1&logoColor=6366f1"></a>
-<a href="https://www.linkedin.com/in/sultanmaula/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sultan_maula-blue?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2"></a>
-<a href="https://www.instagram.com/sultanmaula/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sultanmaula-blue?style=for-the-badge&logo=instagram&color=E4405F&logoColor=E4405F"></a>
-<a href="mailto:sultanmaulachamzah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sultanmaulachamzah@gmail.com-blue?style=for-the-badge&logo=gmail&color=EA4335&logoColor=EA4335"></a>
+<a target="_blank" href="https://sultanmaula.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sultanmaula.github.io-blue?style=for-the-badge&logo=google-chrome&color=6366f1&logoColor=6366f1"></a>
+<a target="_blank" href="https://www.linkedin.com/in/sultanmaula/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sultan_maula-blue?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2"></a>
+<a target="_blank" href="https://www.instagram.com/sultanmaula/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sultanmaula-blue?style=for-the-badge&logo=instagram&color=E4405F&logoColor=E4405F"></a>
+<a target="_blank" href="mailto:sultanmaulachamzah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sultanmaulachamzah@gmail.com-blue?style=for-the-badge&logo=gmail&color=EA4335&logoColor=EA4335"></a>
 </p>
 
 ---
