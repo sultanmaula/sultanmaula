@@ -1,6 +1,8 @@
-# Hey there! I'm Sultan.</h1>
+# Hey there! I'm Sultan.
 
-## 🛠 &nbsp;Tech Stack</h2>
+Experienced Software Engineer since 2020 and have history of working in the online media industry. Proficient in bringing expertise in the design, installation, testing and maintenance of website systems or software. Equipped with diverse and promising expertise. Proficient in multiple platforms, languages and frameworks. Experience with the latest development tools and procedures. Able to manage yourself effectively during independent projects, as well as collaborate as part of a productive team.
+
+## 🛠 &nbsp;Tech Stack
 
 ### 🌐 Framework and Languages &nbsp;
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,7 +18,7 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vue.js-333333?style=for-the-badge&logo=vue.js)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Express.js](https://img.shields.io/badge/jquery-1C6AAD?style=for-the-badge&logo=jquery&logoColor=%2361DAFB)
+  ![jQuery](https://img.shields.io/badge/jquery-1C6AAD?style=for-the-badge&logo=jquery&logoColor=%2361DAFB)
   ![GO](https://img.shields.io/badge/go_lang-FFFFFF?style=for-the-badge&logo=go&logoColor=79D4FD)
   
 ### 🛢 Databases &nbsp;
@@ -32,7 +34,7 @@
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-2A65D1?style=for-the-badge&logo=bitbucket)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![FileZilla](https://img.shields.io/badge/filezilla-A41500?style=for-the-badge&logo=filezilla)
-  ![Firebase](https://img.shields.io/badge/digitalocean-ffffff?style=for-the-badge&logo=digitalocean)
+  ![DigitalOcean](https://img.shields.io/badge/digitalocean-ffffff?style=for-the-badge&logo=digitalocean)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
  
@@ -54,13 +56,10 @@
 
 <br/>
 
-## 🏆 &nbsp;GitHub Trophies
-![My Github Trophies](https://github-profile-trophy.vercel.app/?username=sultanmaula&theme=discord&no-frame=true&margin-w=4)
-
-## 🤝🏻 &nbsp;Connect with Me</h2>
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a target="_blank" href="https://sultanmaula.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sultanmaula.github.io-blue?style=for-the-badge&logo=google-chrome&color=6366f1&logoColor=6366f1"></a>
+<a target="_blank" href="https://sultanmaula.web.id/"><img alt="Website" src="https://img.shields.io/badge/Website-sultanmaula.web.id-blue?style=for-the-badge&logo=google-chrome&color=6366f1&logoColor=6366f1"></a>
 <a target="_blank" href="https://www.linkedin.com/in/sultanmaula/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sultan_maula-blue?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2"></a>
 <a target="_blank" href="https://www.instagram.com/sultanmaula/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sultanmaula-blue?style=for-the-badge&logo=instagram&color=E4405F&logoColor=E4405F"></a>
 <a target="_blank" href="mailto:sultanmaulachamzah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sultanmaulachamzah@gmail.com-blue?style=for-the-badge&logo=gmail&color=EA4335&logoColor=EA4335"></a>
