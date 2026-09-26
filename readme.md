@@ -5,7 +5,7 @@
   <p align="center">
     <strong>Backend Engineer</strong> &bull; Scalable Systems &bull; AI-Assisted Workflows
     <br />
-    📍 Lamongan, Indonesia
+    📍 Jombang, East Java, Indonesia
     <br />
     <br />
     <a href="https://sultanmaula.web.id/"><strong>Visit Website »</strong></a>
